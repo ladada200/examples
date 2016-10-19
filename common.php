@@ -16,8 +16,8 @@ class makeFriends {
   const CONSTANT = 'Chris';
 
   public function friendConst($friend) {
-    echo $friend, PHP_EOL;
-    //echo self::CONSTANT, PHP_EOL;
+    echo $friend;
+    //echo self::CONSTANT;
   }
 
 }
